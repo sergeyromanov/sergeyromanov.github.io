@@ -1,0 +1,5 @@
+*
+!.gitignore
+!build/default/__htmlLaunchDir/mystery_spirits/*
+!_config.yml
+!*/

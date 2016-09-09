@@ -1,4 +1,5 @@
 *
 !.gitignore
+!index.html
 !build/html5/mystery_spirits/*
 !*/
